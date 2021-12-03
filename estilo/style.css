@@ -87,7 +87,13 @@ nav > a:hover{
     nav > a{
         display: inline-block;
         margin: 5px 0px;
+    }
+}
+
+@media (max-width: 768px){
+    nav > a{
         padding: 5px;
+
     }
 }
 
